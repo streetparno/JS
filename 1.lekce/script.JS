@@ -1,0 +1,1 @@
+alert("čus bus autobus šéfíku")
