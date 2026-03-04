@@ -1,7 +1,7 @@
 let totalPrice= 195;
 
-if (totalPrce>= 100) {
-    let discountedPrice = totalPrice * 0,7;
+if (totalPrice >= 100) {
+    let discountedPrice = totalPrice * 0.7;
     console.log(discountedPrice);
     } else {
         let amountNeeded= 100 - totalPrice;
