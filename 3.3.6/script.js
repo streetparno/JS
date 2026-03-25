@@ -27,7 +27,7 @@ for (let b = 0; b < 10; b++) {
     console.log(b);
 }
 
-or (let c = 0; b < 10; c++) {
+for (let c = 0; b < 10; c++) {
     if (c === 5) continue;
     console.log(c);
 }
