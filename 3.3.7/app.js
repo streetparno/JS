@@ -42,7 +42,7 @@ function sayHello(name) { // name = parametr
 
     scitani(5,8);
 
-    functionvypisCisla(zacatek, konec){
+    functionvypisCisla(zacatek, konec);  {
          for (let i = zacatek; i <= konec; i++){
 
          }
