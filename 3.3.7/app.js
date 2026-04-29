@@ -13,9 +13,9 @@ function ukažPozdrav() {
 }
 
 function testLocal() {
-    let localValue = 123;
-    console.log(localValue)
 }
+    let localValue = 123;
+    console.log(localValue)  
 
 ukažPozdrav();
 testLocal();
@@ -41,3 +41,7 @@ function sayHello(name) { // name = parametr
     }
 
     addNumber(5,8);
+
+    functionvypisCisla(zacatek, konec) {
+        for (let i = zacatek;)
+    }
