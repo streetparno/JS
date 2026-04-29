@@ -40,8 +40,13 @@ function sayHello(name) { // name = parametr
         console.log(num1 + num2);
     }
 
-    addNumber(5,8);
+    scitani(5,8);
 
-    functionvypisCisla(zacatek, konec) {
-        for (let i = zacatek;)
+    functionvypisCisla(zacatek, konec){
+         for (let i = zacatek; i <= konec; i++){
+
+         }
     }
+    vypisCisla(3, 7);
+       
+ 
